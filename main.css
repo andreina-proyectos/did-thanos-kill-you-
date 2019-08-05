@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  /*
+  background-image: url(https://cdn-3.expansion.mx/dims4/default/f4c4d91/2147483647/strip/true/crop/800x450+0+0/resize/800x450!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F82%2F91%2Fa5a6a4d241f3820b3f1a0fab27ee%2Fthanos-marvel-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  width:1000px;
+}
+
+
